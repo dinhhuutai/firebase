@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="name">Enter your name</string>
+    <string name="age">Enter your age</string>
+    <string name="phone">Enter your phone</string>
+    <string name="height">Enter your height</string>
+    <string name="btnsave">SAVE</string>
+</resources>
